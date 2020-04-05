@@ -179,7 +179,7 @@ class Contact extends Component {
                     component="div"
                     messages={{
                       required :'Required',
-                      validEmail: 'Invalid email address'
+                      validEmail: 'Invalid Email Address'
                     }}
                     
                   />
