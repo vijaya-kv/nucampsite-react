@@ -6,7 +6,7 @@ import { Comments } from './comments';
 import { Partners } from './partners';
 import { Promotions } from './promotions';
 import { createForms } from 'react-redux-form';
-import { forms, InitialFeedback} from './forms';
+import { InitialFeedback } from './forms';
 
 export const ConfigureStore = () => {
     const store = createStore(
